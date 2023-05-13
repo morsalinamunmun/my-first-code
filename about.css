@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.pic img{
+    width: 200px;
+    height: auto;
+    
+}
+ 
+.pic h3{
+    float: right;
+    margin-top: 5px;
+    margin-right: 50%;
+}
+.pic h5{
+    float: right;
+    /* margin-left: 50%; */
+    margin-right: 400px;
+    text-align:right;
+    margin-bottom: 99%;
+}
